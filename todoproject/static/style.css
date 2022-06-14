@@ -1,0 +1,15 @@
+.banner {
+
+background-color:midnightblue;
+height:100px;
+padding:30px;
+margin:top;
+
+}
+.banner-text{
+         text-align:center;
+         text-top:50%;
+        height:50%;
+        color:white;
+
+}
